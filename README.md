@@ -23,9 +23,11 @@ Dataset from StackOverflow was used to predict programmers expectation in 5 year
 There are 3 files
  1. Udacity_Project.ipynb
  2. Udacity_Project.html
- 3. survey_results_public.csv
-First 2 are actually the same. Fisrt one is the code and asecond one is html version of first one. Third one is the dataset which was analyzed.
+ 3. survey_functions.py
+First 2 are actually the same. Fisrt one is the code and asecond one is html version of first one. Third one includes functions that are used during analyzes.
 
+
+Dataframe for analyzes can be downloaded from Stack Overflow - https://insights.stackoverflow.com/survey
 
 -------------------------------------------------------
 4. How to Interact with your project
